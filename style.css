@@ -1,0 +1,15 @@
+.text-center{
+    background-color: rgb(4, 0, 3);
+}
+/* .searchbox text-center{
+    background-color: aquamarine;
+} */
+
+.img-fluid{
+    /* filter: grayscale(100%); */
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;  
+  }
+
+  /* Some other classes have to add */

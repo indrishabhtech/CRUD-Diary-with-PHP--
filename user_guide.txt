@@ -1,0 +1,53 @@
+step -1 )first install php language from php.net website
+step -2 )Install vs code editor for your coding ease or you can stick on any other code editor
+
+step -3 )Install xampp for windows from the apache friends -> sourceforge.net
+
+step -4 )Now extract the Zip file using any extractor
+step -5 ) Zip password is =  "";
+                    |
+                    |
+                    |
+                    |
+____________________\/____________________________
+|                                                |
+|      ****** IN DEV Mode ******                 |
+|         Add Ballu Bhai/Bahen Font                   |
+|                                                |
+|________________________________________________|
+
+
+step -6)Go to your browser and paste this path - http://localhost/phpmyadmin/
+and Create a database there 
+
+database name - 12_04_2024_webdev
+tabel name -  12_04_2024_webdev_table
+table components - name , email, password
+
+or you can use database and table schema to Create them automatically form sql query but here i am not giving this schema you can create it yourself using xampp query
+
+step -7)Now go to this url in browser - http://localhost/12-04-2024/ or http://localhost/12-04-2024/index.html to the signup page 
+
+step -8) Fill the form and now type this url and go on that page - http://localhost/phpmyadmin/index.php?route=/sql&db=12_04_2024_webdev&table=12_04_2024_webdev_table&pos=0
+Now you can see your filled data is here in this database
+
+step -9)Now back to the signup page and here you can see in bottom right corner a Login button click on that  after that you are on http://localhost/12-04-2024/login.html this page now use the credentials which you used on signup process time.
+
+step -10)After the successful Login process you are on http://localhost/12-04-2024/dashboard.php this page .
+Here you can see your details.
+ 
+Without logging in you will be redirected to the http://localhost/12-04-2024/login.html page .
+
+step -11)Here on http://localhost/12-04-2024/dashboard.php page you can see a I-Notes section,this is the diary or something like notepad on go but with database so you can use it anytime and anywhere
+
+You can see those buttons by them you can perform several actions from your data.
+
+
+step -12)Now bottom of the page you can see that logout button when you click on that you will be redirected on the http://localhost/12-04-2024/login.html page .
+
+So what now ----
+
+Click on the logout button and Get out from here..
+what are you waiting for?
+and close this user guide also. Always remember that this guide has helped you more than your friends & parents.
+Have a Good Day!
